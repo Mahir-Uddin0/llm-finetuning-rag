@@ -124,35 +124,6 @@ This system is designed for:
 
 ---
 
-## 🚀 How to Run
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-### 2️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Train / Resume Training
-
-```bash
-python train.py
-```
-
-### 4️⃣ Run RAG Pipeline
-
-```bash
-python rag_inference.py
-```
-
----
-
 ## 🛠️ Future Improvements
 
 * 🔹 Deploy as REST API using FastAPI
@@ -163,19 +134,6 @@ python rag_inference.py
 
 ---
 
-## 📌 Highlights for Recruiters
-
-* Built a **production-oriented LLM pipeline**, not just experimentation
-* Applied **state-of-the-art fine-tuning (QLoRA)** for efficiency
-* Designed **fault-tolerant training system with checkpoint recovery**
-* Combined **LLM + RAG**, aligning with modern industry AI systems
-* Demonstrates strong understanding of:
-
-  * Deep Learning systems
-  * ML engineering practices
-  * Scalable AI architecture
-
----
 
 ## 📄 License
 
@@ -186,7 +144,3 @@ This project is licensed under the MIT License.
 ## 🤝 Contact
 
 Feel free to connect for collaboration or opportunities.
-
----
-
-⭐ If you found this project useful, consider giving it a star!
